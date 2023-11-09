@@ -1,0 +1,14 @@
+.container-fluid{
+  font-family: 'Times New Roman', Times, serif;
+}
+.card{
+  width: 30rem;
+}
+
+
+/* git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Umesh314/Task1.git
+git push -u origin main */
